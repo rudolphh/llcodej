@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Ladies Love Code Jams
-subtitle:
-description:
+title: LLCodeJ
+subtitle: Ladies Love Code Jams
+description: Live, love, code, fitness, and family. 
 author: Rudolph Arthur Hernandez
-language:
+language: en
 timezone:
 
 # URL
@@ -69,3 +69,9 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# Search
+## Docs: https://phylsix.github.io/2016/04/06/NexT-theme-setup/
+search:
+  path: search.xml
+  field: post
